@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918505033411",
+    "firebase_url": "https://developer-raisahab.firebaseio.com",
+    "project_id": "developer-raisahab",
+    "storage_bucket": "developer-raisahab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918505033411:android:1a52aa0ba938ad6d",
+        "android_client_info": {
+          "package_name": "com.nucleustech.mohanoverseas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918505033411-ai1lpa5vqkqk4eq6ltmi3gn2rh3qjl85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nucleustech.mohanoverseas",
+            "certificate_hash": "06cb270606d5ec9717964ce678f8ed40d508c52d"
+          }
+        },
+        {
+          "client_id": "918505033411-vkjhkuuh3qjukecb4l897ckinrimq4mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqSfLQ9IypcxqfHi63EACEFYvRQNDb7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918505033411-vkjhkuuh3qjukecb4l897ckinrimq4mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
